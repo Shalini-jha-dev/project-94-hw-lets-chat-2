@@ -1,0 +1,46 @@
+#wlcm{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#half_way{
+    height: 790px;
+    width: 790px;
+}
+.align{
+   margin-left: 0px;
+}
+#logo{
+    height: 90px;
+    width: 90px;
+}
+#headimg{
+    width: 50px;
+    height: 50px;
+}
+#login{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+.login_div{
+    border-style:solid ;
+    border-width: 7px;
+    border-radius: 20px;
+    margin-left: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    width: 250px ;
+    font-size: 35px;
+}
+#user_name{
+    width: 200px;
+}
+#headimg{
+    size: 200px;
+}
+.header{
+    font-family: 'Pangolin', cursive;
+}
+#logoroom{
+    size: 50px;
+}
